@@ -10,7 +10,12 @@ Moving to London and open to industry roles from late 2026 (right to work in the
 Most of my work so far has been research code written alongside publications.
 The repositories below are two typical examples.
 
-- **repo-name** — one line on what it does
-- **repo-name** — one line on what it does
+- **npgreen** — Python package that computes electronic Green's functions and
+  spectral properties (linewidths, temperature-dependent band gaps) from DFT
+  output, using stochastic sampling of atomic displacements instead of
+  perturbation theory. Post-processes supercell calculations run on HPC clusters.
+- **forbidden_reflection** — Fortran code for the temperature dependence of
+  symmetry-forbidden X-ray reflections, computing structure factors from the
+  valence charge density obtained in first-principles calculations.
 
 [LinkedIn](https://www.linkedin.com/in/jean-paul-nery)
